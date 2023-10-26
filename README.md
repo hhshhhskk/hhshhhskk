@@ -14,17 +14,17 @@ Here are some ideas to get you started:
 -->
 ### Hi Welcome, i'm MinSeong kwak 👋
 
-#### AI Researcher / Data Engineering
-Developers who create beneficial social values   
-A developer who thinks, researches, creates, and connects to practical realization by web
-
+#### Front-End Developer
 
 🛠️ Stacks
 
 <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"> <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"> 
 
-<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white"> <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white">
+<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white"> <img src="https://img.shields.io/badge/styled─components-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white"> <img src="https://img.shields.io/badge/react─query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white"> <img src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"> <img src="https://img.shields.io/badge/recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white">
 
+<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
+
+<img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"> <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
  
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 
@@ -41,7 +41,7 @@ A developer who thinks, researches, creates, and connects to practical realizati
   [![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://joyous-pansy-314.notion.site/1612a809df194bb892e7dc0f4947c300)](https://joyous-pansy-314.notion.site/1612a809df194bb892e7dc0f4947c300)
   [![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@baeyuna97)](https://velog.io/@baeyuna97)
 
-
+<!--
 🏅 Algorithm Gold Level. 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yuna1do)](https://solved.ac/yuna1do/)  
@@ -60,3 +60,4 @@ Samsung SW *Pro Level*
 
 There are many parts of the project and development source that I have been unable to disclose due to internal confidentiality and the organizer's pledge of confidentiality.  
 Please understand.
+-->
